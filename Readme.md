@@ -14,9 +14,4 @@ Stay tuned for updates! ✨
 
 ---
 
-## 📖 Abstract  
-Mental disorders are increasingly reflected in online discourse. **MeDiTate** leverages **multimodal deep learning techniques** to analyze textual and behavioral signals from social media for **accurate detection** of mental disorder states.  
-
-Our goal is to support research in **computational mental health** and provide reproducible tools for further exploration.  
-
 
