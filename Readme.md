@@ -19,6 +19,4 @@ Mental disorders are increasingly reflected in online discourse. **MeDiTate** le
 
 Our goal is to support research in **computational mental health** and provide reproducible tools for further exploration.  
 
----
 
-## 📂 Repository Structure  
